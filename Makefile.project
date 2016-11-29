@@ -1,0 +1,2 @@
+CORE_GENERATOR = counter
+SIMULATOR = icarus

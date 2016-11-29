@@ -1,0 +1,4 @@
+report:
+
+%:
+	$(MAKE) -C plsi $@

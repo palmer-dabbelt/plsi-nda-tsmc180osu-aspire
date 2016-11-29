@@ -1,0 +1,3 @@
+[submodule "plsi"]
+	path = plsi
+	url = git://github.com/ucb-bar/plsi.git
